@@ -1,0 +1,56 @@
+body{
+  margin: 0px;
+}
+#content2{
+  display: none;
+}
+
+#div1{
+  position: relative;
+  margin: 30px;
+
+}
+#content1{
+  padding-left: 40px;
+  margin-left: 55px;
+  line-height: 25px;
+}
+#content2{
+
+  margin-left: 125px;
+  line-height: 25px;
+}
+
+.header {
+
+
+    margin: 0;
+    background-image: url('https://media-exp1.licdn.com/dms/image/C561BAQE3gUL9dTK95A/company-background_10000/0?e=2159024400&v=beta&t=eASwT1E7u9pr0HeltKgYsOHQg9WLJdXboLjOSVJRUUY');
+
+    color:white;
+    text-align:center;
+    padding:80px;
+}
+.nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;
+}
+.active {
+    font-weight:bold;
+}
+.section {
+    width:350px;
+    float:left;
+    padding:10px;
+}
+.footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+}
